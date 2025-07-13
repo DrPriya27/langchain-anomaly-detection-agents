@@ -234,6 +234,4 @@ The agent includes robust error handling:
 - Support for more complex seasonality patterns
 - Interactive dashboard for anomaly exploration
 
-## License
 
-[Include license information here]
